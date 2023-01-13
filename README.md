@@ -1,2 +1,1 @@
-# PREP-GONZA
-REPOSITORIO PRUEBA MODULO 2
+Esto es una prueba desde github al escritorio
